@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<faculties>
+  <faculty id="1" name="Разработка программного обеспечения" />
+  <faculty id="2" name="Компьютерная графика и дизайн" />
+  <faculty id="3" name="Сетевые технологии и кибербезопасность" />
+  <faculty id="4" name="Малая Компьютерная Академия" />
+  <faculty id="5" name="Годовые курсы по Web-Design" />
+  <faculty id="6" name="Годовые  курсы по Python" />
+  <faculty id="7" name="Годовые  курсы по PHP" />
+</faculties>
